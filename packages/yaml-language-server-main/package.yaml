@@ -1,5 +1,5 @@
 ---
-name: yaml-language-server
+name: yaml-language-server-main
 description: Language Server for YAML Files.
 homepage: https://github.com/redhat-developer/yaml-language-server
 licenses:
